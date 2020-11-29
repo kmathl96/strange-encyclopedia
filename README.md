@@ -80,7 +80,7 @@ $ git commit -m "Jira 이슈 번호 | Header | 설명"
 
 <img src="./Docs/wireframe.JPG">
 
-<img src="./We/ERD.png">
+<img src="./Docs/ERD.png">
 
 
 
